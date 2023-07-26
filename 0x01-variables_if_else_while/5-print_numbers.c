@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - prints all single digit numbers 
- * starting from 0 till 10, followed by a new line
+ * main - prints all single digit numbers in base
+ * 10 starting from 0, followed by a new line
  * Return: Always 0 for successes 
  */
 int main(void)
