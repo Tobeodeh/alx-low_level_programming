@@ -4,8 +4,8 @@
 
 /**
  * main - prints the last digit of the random
- * number is stored in the variable n
- * Return: Always 0 for success
+ * number is  stored in the variable n
+ * Return: Always 0 for all sucesses
  */
 int main(void)
 {
