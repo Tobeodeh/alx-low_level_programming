@@ -1,18 +1,18 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - prints all single digit numbers of base 10
- * starting from 0, followed by a new line.
+ * main -  prints all single digit numbers of base 10
+ *
  * Return: 0
  */
 int main(void)
 {
-	int n = 0;
+	int s = 0;
 
-	while (n < 10)
+	while (s < 10)
 	{
-		putchar(48 + n);
-		if (c != 9)
+		putchar(48 + s);
+		if (s != 9)
 		{
 			putchar(',');
 			putchar(' ');
