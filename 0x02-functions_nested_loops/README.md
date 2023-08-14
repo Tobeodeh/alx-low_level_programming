@@ -1,6 +1,6 @@
-#Resources
+***Resources***
 
-##Read or watch:
+**Read or watch:**
 
     Nested while loops
     C - Functions
