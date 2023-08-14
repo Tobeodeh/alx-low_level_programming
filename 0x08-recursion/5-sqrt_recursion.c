@@ -2,19 +2,19 @@
 
 /**
  * _sqrt_recursion - main function
- * @n: int n
- * Return: integer
+ * @n: integer n
+ * Return: integer values
  */
 int _sqrt_recursion(int n)
 {
-	return (_sqrt(n, 1));
+	return (_sqrt_recursion(n, 1));
 }
 
 /**
  * _sqrt - _sqrt_recursion
  * @n: integer paramter
  * @i: integer parameter
- * Return: _sqrt
+ * Return: sqrt
  */
 int _sqrt(int n, int i)
 {
